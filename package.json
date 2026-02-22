@@ -25,7 +25,7 @@
   "dependencies": {
     "@vitalets/google-translate-api": "^7.0.0",
     "axios": "^0.21.1",
-    "canvacord": "^5.2.3",
+    "canvacord": "^5.4.10",
     "chalk": "^4.1.0",
     "cors": "^2.8.5",
     "dateformat": "^4.5.1",
@@ -45,7 +45,7 @@
     "moment": "^2.29.1",
     "mongoose": "^5.11.15",
     "optiic": "^0.0.14",
-    "puppeteer": "^10.1.0",
+    "puppeteer": "^24.37.5",
     "r6api.js": "^2.0.2",
     "radio-browser": "^2.1.6",
     "simple-node-logger": "^18.12.24",
@@ -58,7 +58,7 @@
   },
   "devDependencies": {
     "clean-jsdoc-theme": "^3.2.7",
-    "eslint": "^7.29.0",
+    "eslint": "^10.0.1",
     "jsdoc": "^3.6.7"
   },
   "optionalDependencies": {
